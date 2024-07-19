@@ -1,6 +1,2 @@
 Hello world
-<<<<<<< HEAD
-sample file
-=======
-Demo of Git
->>>>>>> ddbb82e5f4839ab39a0a9ccff4f2bfd999b4096f
+Demo
